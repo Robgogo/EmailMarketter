@@ -1,0 +1,22 @@
+System of Intelligence team
+weekly meeting: Monday Sep 02, 2019
+
+Last week:
+(Progress)
+	(T1) Create different ML model on Jupiter notebook
+		Preparing dataset in progress... to be completed
+	(T10) Fix the graph bug on DeepThinker UI (Wenji)
+
+(Problems)
+Generating FCG taking long time(sometimes a day)
+Server size was fulled, couldn't complete tasks and expected to upgrade
+
+(Plan)
+	Team will be separated in 2
+	T Working on current task: 
+		T1 Complete dataset download
+		T2 FCG generate
+		T3 Create ML model using prepared dataset
+	T CNN(maldozer)
+		T4 Setup dataset
+		T5 Work on improving the model
