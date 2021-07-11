@@ -8,8 +8,8 @@ let success_emails = []
 
 const singleMailer = async (email_content) =>{
     const account = {
-        user: "robgogoworku@gmail.com",
-        pass: 'maozedong1949r'
+        user: "email@address",
+        pass: '**********'
     }
 
     let transporter = nodemailer.createTransport({
